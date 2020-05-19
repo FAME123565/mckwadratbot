@@ -1,0 +1,2 @@
+# mckwadratbot
+MCKwadrat Discord Bot.
